@@ -1,5 +1,5 @@
 import { SelectedPage } from "@/shared/types";
-import Logo from "@/assets/logo.png";
+import Logo from "@/assets/Logo.png";
 
 type Props = {
   setSelectedPage: (value: SelectedPage) => void;
